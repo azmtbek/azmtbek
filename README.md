@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 My name is Azamatbek. I'm a full stack developer. 
 
-- 🔭 I’m currently working on [Blogim.org](blogim.org)
+- 🔭 I’m currently working on [Blogim.org](https://blogim.org)
