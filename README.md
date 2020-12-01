@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+My name is Azamatbek. I'm a full stack developer. 
+
+- 🔭 I’m currently working on Blogim.org
