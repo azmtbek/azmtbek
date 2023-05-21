@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 
 Azamatbek Mamarajabov
 
-- 🔭 I’m currently working on [Blogim.org](https://blogim.org)
+- Check out [the sandbox repo](../../../sandbox), it's for experimenting on different tools.
